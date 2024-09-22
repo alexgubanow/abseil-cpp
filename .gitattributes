@@ -1,0 +1,11 @@
+.git* zos-working-tree-encoding=IBM-1047
+* zos-working-tree-encoding=UTF-8
+
+bootstrap eol=lf zos-working-tree-encoding=IBM-1047
+configure eol=lf zos-working-tree-encoding=IBM-1047
+*.bash eol=lf zos-working-tree-encoding=IBM-1047
+*.sh eol=lf zos-working-tree-encoding=IBM-1047
+*.sh.in eol=lf zos-working-tree-encoding=IBM-1047
+
+*akefile zos-working-tree-encoding=IBM-1047
+*.txt zos-working-tree-encoding=IBM-1047
